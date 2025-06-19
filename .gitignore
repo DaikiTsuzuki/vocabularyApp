@@ -1,0 +1,14 @@
+# Rust build files
+/backend/target/
+
+# Node.js build files
+/frontend/node_modules/
+frontend/.next/
+
+# Environment
+frontend/.env
+frontend/.env.local
+
+# System
+.DS_Store
+.vscode/
